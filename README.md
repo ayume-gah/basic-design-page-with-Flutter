@@ -1,6 +1,6 @@
 # basic-design-page-with-Flutter
 
-A new Flutter project.
+hasil tampilan => basic_page.png
 
 ## Getting Started
 
